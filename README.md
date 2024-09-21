@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Ismail</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">A passionate Computer Science Studentr</h3>
 
 <p align="center"> 
     <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="mahmoud-k-ismail" width="300" /> 
